@@ -1,0 +1,377 @@
+[
+  {
+    "category_id": 1,
+    "category": "Visiting & Travel",
+    "image": "https://i.ibb.co/HDbMCWr/visiting-removebg-preview.png",
+    "items": [
+      {
+        "title": "Explore the City",
+        "coverImage": "https://i.ibb.co/SVMK8qK/edgar-chaparro-7-HDi-Ek-G11-I-unsplash.jpg",
+        "description": "When you look out the window and see gray skies, and temperatures have been near zero for weeks on end then you know that the time has come to plan your next vacation. Many people use travel portals before booking their trip, or inform themselves about possible travel destinations in travel blogs. An important part of the pages are descriptions of destinations and travel texts",
+        "likes": 120
+      },
+      {
+        "title": "Beach Vacation",
+        "coverImage": "https://i.ibb.co/72nTX3M/lucas-wesney-ZNz5-UPRb2-N8-unsplash.jpg",
+        "description": "When you look out the window and see gray skies, and temperatures have been near zero for weeks on end then you know that the time has come to plan your next vacation. Many people use travel portals before booking their trip, or inform themselves about possible travel destinations in travel blogs. An important part of the pages are descriptions of destinations and travel texts",
+        "likes": 95
+      },
+      {
+        "title": "Mountain Adventure",
+        "coverImage": "https://i.ibb.co/8rJ1Rdb/glenn-carstens-peters-ZWD3-Dx6a-UJg-unsplash.jpg",
+        "description": "When you look out the window and see gray skies, and temperatures have been near zero for weeks on end then you know that the time has come to plan your next vacation. Many people use travel portals before booking their trip, or inform themselves about possible travel destinations in travel blogs. An important part of the pages are descriptions of destinations and travel texts",
+        "likes": 80
+      }
+    ]
+  },
+  {
+    "category_id": 2,
+    "category": "Sports",
+    "image": "https://i.ibb.co/GnmZvQX/sports-removebg-preview.png",
+    "items": [
+      {
+        "title": "Football Match",
+        "coverImage": "https://i.ibb.co/Mn7pLf5/markus-spiske-WUeh-Agq-O5h-E-unsplash.jpg",
+        "description": "It's a run that was started by Mauricio Pochettino (1-0 in April 2019) and carried on by Jose Mourinho (2-0 in February 2020 and 2-0 in November 2020), Nuno Espirito Santo (1-0 in August 2021) and Antonio Conte (1-0 in February 2023). Ange Postecoglou, appointed in the summer, is the next Spurs manager to have a go after already orchestrating a thrilling 3-3 draw at the Etihad Stadium in December.",
+        "likes": 150
+      },
+      {
+        "title": "Basketball Tournament",
+        "coverImage": "https://i.ibb.co/vcTzv14/connor-coyne-Ogq-WLz-WRSa-I-unsplash.jpg",
+        "description": "It's a run that was started by Mauricio Pochettino (1-0 in April 2019) and carried on by Jose Mourinho (2-0 in February 2020 and 2-0 in November 2020), Nuno Espirito Santo (1-0 in August 2021) and Antonio Conte (1-0 in February 2023). Ange Postecoglou, appointed in the summer, is the next Spurs manager to have a go after already orchestrating a thrilling 3-3 draw at the Etihad Stadium in December.",
+        "likes": 110
+      },
+      {
+        "title": "Hiking Expedition",
+        "coverImage": "https://i.ibb.co/FVjPsyq/courtney-cook-Ss-IIw-MET0-E-unsplash.jpg",
+        "description": "Naushad Khan was flooded with congratulatory messages and calls the moment he switched on his phone after landing in Mumbai. His elder son, Sarfaraz, playing for India A, had scored a first-class century against England Lions in Ahmedabad, while 7,625km away at Bloemfontein, his younger one Musheer had scored a match-winning ton in Indias 201-run win over Ireland in the U-19 World Cup.",
+        "likes": 90
+      }
+    ]
+  },
+  {
+    "category_id": 3,
+    "category": "Business",
+    "image": "https://i.ibb.co/mcZ2bHB/busenesslogo-removebg-preview.png",
+    "items": [
+      {
+        "title": "Entrepreneurship Workshop",
+        "coverImage": "https://i.ibb.co/5j0nf9F/david-marcu-78-A265w-Pi-O4-unsplash.jpg",
+        "description": "Having a business name does not separate the business entity from the owner, which means that the owner of the business is responsible and liable for debts incurred by the business. If the business acquires debts, the creditors can go after the owner's personal possessions.[6] The taxation system for businesses is different from that of the corporates. A business structure does not allow for corporate tax rates. The proprietor is personally taxed on all income from the business.",
+        "likes": 80
+      },
+      {
+        "title": "Corporate Retreat",
+        "coverImage": "https://i.ibb.co/5j0nf9F/david-marcu-78-A265w-Pi-O4-unsplash.jpg",
+        "description": "Having a business name does not separate the business entity from the owner, which means that the owner of the business is responsible and liable for debts incurred by the business. If the business acquires debts, the creditors can go after the owner's personal possessions.[6] The taxation system for businesses is different from that of the corporates. A business structure does not allow for corporate tax rates. The proprietor is personally taxed on all income from the business.",
+        "likes": 120
+      },
+      {
+        "title": "Business Conference",
+        "coverImage": "https://i.ibb.co/Mn7pLf5/markus-spiske-WUeh-Agq-O5h-E-unsplash.jpg",
+        "description": "Having a business name does not separate the business entity from the owner, which means that the owner of the business is responsible and liable for debts incurred by the business. If the business acquires debts, the creditors can go after the owner's personal possessions.[6] The taxation system for businesses is different from that of the corporates. A business structure does not allow for corporate tax rates. The proprietor is personally taxed on all income from the business.",
+        "likes": 95
+      }
+    ]
+  },
+  {
+    "category_id": 4,
+    "category": "Nature",
+    "image": "https://i.ibb.co/C6z6wkK/nature-logo-removebg-preview.png",
+    "items": [
+      {
+        "title": "National Park Expedition",
+        "coverImage": "https://i.ibb.co/5j0nf9F/david-marcu-78-A265w-Pi-O4-unsplash.jpg",
+        "description": "In the papers, published in a range of journals including Blood, Cell and Nature Immunology, David found images from western blots — a common test for detecting proteins in biological samples — in which bands seemed to be spliced, stretched and copied and pasted. He also found images of mice duplicated across figures where they shouldn’t have been",
+        "likes": 110
+      },
+      {
+        "title": "Botanical Garden Tour",
+        "coverImage": "https://i.ibb.co/7vc5Q0Y/v2osk-1-Z2nii-BPg5-A-unsplash.jpg",
+        "description": "In the papers, published in a range of journals including Blood, Cell and Nature Immunology, David found images from western blots — a common test for detecting proteins in biological samples — in which bands seemed to be spliced, stretched and copied and pasted. He also found images of mice duplicated across figures where they shouldn’t have been",
+        "likes": 85
+      },
+      {
+        "title": "Wildlife Photography Safari",
+        "coverImage": "https://i.ibb.co/QNfbCy2/qingbao-meng-01-ig-Fr7hd4-unsplash.jpg",
+        "description": "In the papers, published in a range of journals including Blood, Cell and Nature Immunology, David found images from western blots — a common test for detecting proteins in biological samples — in which bands seemed to be spliced, stretched and copied and pasted. He also found images of mice duplicated across figures where they shouldn’t have been",
+        "likes": 75
+      }
+    ]
+  },
+  {
+    "category_id": 5,
+    "category": "Technology",
+    "image": "https://i.ibb.co/StBrRmZ/technology-logo-removebg-preview.png",
+    "items": [
+      {
+        "title": "Tech Innovation Summit",
+        "coverImage": "https://i.ibb.co/tqRhntv/rob-lambert-9-Q-p-LLP-jm-A-unsplash.jpg",
+        "description": "The subject of technology is treated in a number of articles. For general treatment, see technology, history of; hand tool. For description of the materials that are both the object and means of manipulating the environment, see elastomers; industrial ceramics; industrial glass; metallurgy; mineral deposit; mineral processing; mining; plastic. For the generation of energy, see energy conversion; coal mining; coal utilization; petroleum production; petroleum refining. For treatment of food production, see agriculture, history of; agricultural economics; beekeeping; beer; cereal farming;",
+        "likes": 130
+      },
+      {
+        "title": "Gadget Expo",
+        "coverImage": "https://i.ibb.co/HzS78GK/umberto-j-Xd2-FSvc-Rr8-unsplash.jpg",
+        "description": "The subject of technology is treated in a number of articles. For general treatment, see technology, history of; hand tool. For description of the materials that are both the object and means of manipulating the environment, see elastomers; industrial ceramics; industrial glass; metallurgy; mineral deposit; mineral processing; mining; plastic. For the generation of energy, see energy conversion; coal mining; coal utilization; petroleum production; petroleum refining. For treatment of food production, see agriculture, history of; agricultural economics; beekeeping; beer; cereal farming;",
+        "likes": 95
+      },
+      {
+        "title": "Programming Hackathon",
+        "coverImage": "https://i.ibb.co/WVGqH89/domenico-loia-Eh-Tc-C9s-YXsw-unsplash.j",
+        "description": "The subject of technology is treated in a number of articles. For general treatment, see technology, history of; hand tool. For description of the materials that are both the object and means of manipulating the environment, see elastomers; industrial ceramics; industrial glass; metallurgy; mineral deposit; mineral processing; mining; plastic. For the generation of energy, see energy conversion; coal mining; coal utilization; petroleum production; petroleum refining. For treatment of food production, see agriculture, history of; agricultural economics; beekeeping; beer; cereal farming;",
+        "likes": 110
+      }
+    ]
+  },
+  {
+    "category_id": 6,
+    "category": "Food & Dining",
+    "image": "https://i.ibb.co/88tYCp3/foodlogo.jpg",
+    "items": [
+      {
+        "title": "Gourmet Cooking Class",
+        "coverImage": "https://i.ibb.co/b3QvMQf/anh-nguyen-kc-A-c3f-3-FE-unsplash.jpg",
+        "description": "Hunting and gathering, horticulture, pastoralism, and the development of agriculture are the primary means by which humans have adapted to their environments to feed themselves. Food has long served as a carrier of culture in human societies and has been a driving force for globalization. This was especially the case during the early phases of European trade and colonial expansion,",
+        "likes": 90
+      },
+      {
+        "title": "Food Festival",
+        "coverImage": "https://i.ibb.co/YthzY0z/anna-pelzer-IGf-IGP5-ONV0-unsplash.jpg",
+        "description": "Hunting and gathering, horticulture, pastoralism, and the development of agriculture are the primary means by which humans have adapted to their environments to feed themselves. Food has long served as a carrier of culture in human societies and has been a driving force for globalization. This was especially the case during the early phases of European trade and colonial expansion,",
+        "likes": 120
+      },
+      {
+        "title": "Culinary Tour",
+        "coverImage": "https://i.ibb.co/7RHD9F4/lily-banse-YHSwy6uqvk-unsplash.jpg",
+        "description": "Hunting and gathering, horticulture, pastoralism, and the development of agriculture are the primary means by which humans have adapted to their environments to feed themselves. Food has long served as a carrier of culture in human societies and has been a driving force for globalization. This was especially the case during the early phases of European trade and colonial expansion,",
+        "likes": 80
+      }
+    ]
+  },
+  {
+    "category_id": 7,
+    "category": "Health & Wellness",
+    "image": "https://i.ibb.co/Wf0S2tX/healthlogo-removebg-preview.png",
+    "items": [
+      {
+        "title": "Yoga Retreat",
+        "coverImage": "https://i.ibb.co/h9x0PBT/cdc-vt7i-Ayiwpf0-unsplash.jpg",
+        "description": "In 2023, we traveled to Kisoro, Uganda, to continue the project with students at the Vision Secondary School.   A group of eight students selected for this program were given the same One Health lessons as had been taught to the Bronx students, and were given the One Health photo book created by the Lehman HS students to read.  Both groups of students were able to zoom and discuss issues of One Health at this time, and the Ugandan students then proceeded to create a photobook with photos and text with One Health instances from their own communities.",
+        "likes": 100
+      },
+      {
+        "title": "Wellness Workshop",
+        "coverImage": "https://i.ibb.co/4Z406cd/artur-tumasjan-q-Lz-Wvc-Qq-V8-unsplash.jpg",
+        "description": "In 2023, we traveled to Kisoro, Uganda, to continue the project with students at the Vision Secondary School.   A group of eight students selected for this program were given the same One Health lessons as had been taught to the Bronx students, and were given the One Health photo book created by the Lehman HS students to read.  Both groups of students were able to zoom and discuss issues of One Health at this time, and the Ugandan students then proceeded to create a photobook with photos and text with One Health instances from their own communities.",
+        "likes": 85
+      },
+      {
+        "title": "Meditation Retreat",
+        "coverImage": "https://i.ibb.co/wJqfL3c/national-cancer-institute-NFvd-KIhx-Yl-U-unsplash.jpg ",
+        "description": "In 2023, we traveled to Kisoro, Uganda, to continue the project with students at the Vision Secondary School.   A group of eight students selected for this program were given the same One Health lessons as had been taught to the Bronx students, and were given the One Health photo book created by the Lehman HS students to read.  Both groups of students were able to zoom and discuss issues of One Health at this time, and the Ugandan students then proceeded to create a photobook with photos and text with One Health instances from their own communities.",
+        "likes": 110
+      }
+    ]
+  },
+  {
+    "category_id": 8,
+    "category": "Education",
+    "image": "https://i.ibb.co/7S5FQLp/education-logo-removebg-preview.png",
+    "items": [
+      {
+        "title": "Educational Summit",
+        "coverImage": "https://i.ibb.co/28sx5MF/brooke-cagle-g1-Kr4-Ozfoac-unsplash.jpg",
+        "description": "As we all know, education is important in our life. Education is the only thing that helps us to differentiate what is wrong and what is right. Without education we cant do what we want or we cant reach our destination. Education helps us in each and every field of our life. To me education is the gateway to success. Success can be achieved when people have knowledge, skills and attitude. All these things can be gained only with the help of education. I believe that education is the only way which shows us many ways to lead and utilize our life properly. No person in the world with education is neglected.",
+        "likes": 120
+      },
+      {
+        "title": "Online Learning Platform Launch",
+        "coverImage": "https://i.ibb.co/GtgzBwM/md-duran-1-Vq-HRwxc-CCw-unsplash.jpg",
+        "description": "As we all know, education is important in our life. Education is the only thing that helps us to differentiate what is wrong and what is right. Without education we cant do what we want or we cant reach our destination. Education helps us in each and every field of our life. To me education is the gateway to success. Success can be achieved when people have knowledge, skills and attitude. All these things can be gained only with the help of education. I believe that education is the only way which shows us many ways to lead and utilize our life properly. No person in the world with education is neglected.",
+        "likes": 95
+      },
+      {
+        "title": "Science Fair",
+        "coverImage": "https://i.ibb.co/7QnKMq9/kenny-eliason-z-FSo6bn-ZJTw-unsplash-1.jpg",
+        "description": "As we all know, education is important in our life. Education is the only thing that helps us to differentiate what is wrong and what is right. Without education we cant do what we want or we cant reach our destination. Education helps us in each and every field of our life. To me education is the gateway to success. Success can be achieved when people have knowledge, skills and attitude. All these things can be gained only with the help of education. I believe that education is the only way which shows us many ways to lead and utilize our life properly. No person in the world with education is neglected.",
+        "likes": 80
+      }
+    ]
+  },
+  {
+    "category_id": 9,
+    "category": "Entertainment",
+    "image": "https://i.ibb.co/gwhLqnD/entertainment-logo-removebg-preview.png",
+    "items": [
+      {
+        "title": "Film Festival",
+        "coverImage": "https://i.ibb.co/TBMRR8P/ranga-jayawardhana-4-Mn7-Tk-ZMk-A-unsplash.jpg",
+        "description": "Vergara also explained that she was concerned that audiences might not believe her in a more dramatic role. “I was always worried, when I decided to do it…I wanted Sofía and Gloria Pritchett to disappear,” she said. “I didn’t want the audience to say ‘Why does Gloria Pritchett think that with that rubber nose, she can trick us into that she’s a dramatic killer actress?",
+        "likes": 110
+      },
+      {
+        "title": "Live Concert",
+        "coverImage": "https://i.ibb.co/0cWyn58/christian-werther-a-JBxwa-Traf-E-unsplash.jpg",
+        "description": "Vergara also explained that she was concerned that audiences might not believe her in a more dramatic role. “I was always worried, when I decided to do it…I wanted Sofía and Gloria Pritchett to disappear,” she said. “I didn’t want the audience to say ‘Why does Gloria Pritchett think that with that rubber nose, she can trick us into that she’s a dramatic killer actress?",
+        "likes": 95
+      },
+      {
+        "title": "Comedy Show",
+        "coverImage": "https://i.ibb.co/5j0nf9F/david-marcu-78-A265w-Pi-O4-unsplash.jpg",
+        "description": "Vergara also explained that she was concerned that audiences might not believe her in a more dramatic role. “I was always worried, when I decided to do it…I wanted Sofía and Gloria Pritchett to disappear,” she said. “I didn’t want the audience to say ‘Why does Gloria Pritchett think that with that rubber nose, she can trick us into that she’s a dramatic killer actress?",
+        "likes": 85
+      }
+    ]
+  },
+  {
+    "category_id": 10,
+    "category": "Art & Culture",
+    "image": "https://i.ibb.co/0hBW9FF/arts-logo-removebg-preview.png",
+    "items": [
+      {
+        "title": "Art Exhibition",
+        "coverImage": "https://i.ibb.co/0cWyn58/christian-werther-a-JBxwa-Traf-E-unsplash.jpg",
+        "description": "Il concorso di scrittura creativa “Calvino Invisibilia”, indetto dal Ministero degli Affari Esteri e Cooperazione Internazionale, dall’Università per Stranieri di Siena, dal Farm Cultural Park e dal COMICON-Salone internazionale del fumetto, si rivolge agli studenti dei lettorati, delle scuole secondarie di I e II grado italiane statali, paritarie e non paritarie all’estero e agli studenti delle sezioni italiane nelle scuole straniere e internazionali, e intende promuovere la lingua e la cultura italiana attraverso l’opera di Italo Calvino, di cui ricorre quest’anno il centenario della nascita. In particolare",
+        "likes": 90
+      },
+      {
+        "title": "Cultural Festival",
+        "coverImage": "https://i.ibb.co/TBMRR8P/ranga-jayawardhana-4-Mn7-Tk-ZMk-A-unsplash.jpg",
+        "description": "Il concorso di scrittura creativa “Calvino Invisibilia”, indetto dal Ministero degli Affari Esteri e Cooperazione Internazionale, dall’Università per Stranieri di Siena, dal Farm Cultural Park e dal COMICON-Salone internazionale del fumetto, si rivolge agli studenti dei lettorati, delle scuole secondarie di I e II grado italiane statali, paritarie e non paritarie all’estero e agli studenti delle sezioni italiane nelle scuole straniere e internazionali, e intende promuovere la lingua e la cultura italiana attraverso l’opera di Italo Calvino, di cui ricorre quest’anno il centenario della nascita. In particolare",
+        "likes": 120
+      },
+      {
+        "title": "Historical Tour",
+        "coverImage": "https://i.ibb.co/0cWyn58/christian-werther-a-JBxwa-Traf-E-unsplash.jpg",
+        "description": "Il concorso di scrittura creativa “Calvino Invisibilia”, indetto dal Ministero degli Affari Esteri e Cooperazione Internazionale, dall’Università per Stranieri di Siena, dal Farm Cultural Park e dal COMICON-Salone internazionale del fumetto, si rivolge agli studenti dei lettorati, delle scuole secondarie di I e II grado italiane statali, paritarie e non paritarie all’estero e agli studenti delle sezioni italiane nelle scuole straniere e internazionali, e intende promuovere la lingua e la cultura italiana attraverso l’opera di Italo Calvino, di cui ricorre quest’anno il centenario della nascita. In particolare",
+        "likes": 80
+      }
+    ]
+  },
+  {
+    "category_id": 11,
+    "category": "Fashion",
+    "image": "https://i.ibb.co/njqjsnG/fasion-logo-removebg-preview.png",
+    "items": [
+      {
+        "title": "Fashion Show",
+        "coverImage": "https://i.ibb.co/0cWyn58/christian-werther-a-JBxwa-Traf-E-unsplash.jpg",
+        "description": "Fashion is a term used interchangeably to describe the creation of clothing, footwear, accessories, cosmetics, and jewellery of different cultural aesthetics and their mix and match into outfits that depict distinctive ways of dressing (styles and trends) as signifiers of social status, self-expression, and group ",
+        "likes": 100
+      },
+      {
+        "title": "Designer Showcase",
+        "coverImage": "https://i.ibb.co/TBMRR8P/ranga-jayawardhana-4-Mn7-Tk-ZMk-A-unsplash.jpg",
+        "description": "Fashion is a term used interchangeably to describe the creation of clothing, footwear, accessories, cosmetics, and jewellery of different cultural aesthetics and their mix and match into outfits that depict distinctive ways of dressing (styles and trends) as signifiers of social status, self-expression, and group ",
+        "likes": 85
+      },
+      {
+        "title": "Fashion Photography Exhibition",
+        "coverImage": " https://i.ibb.co/0cWyn58/christian-werther-a-JBxwa-Traf-E-unsplash.jpg",
+        "description": "Fashion is a term used interchangeably to describe the creation of clothing, footwear, accessories, cosmetics, and jewellery of different cultural aesthetics and their mix and match into outfits that depict distinctive ways of dressing (styles and trends) as signifiers of social status, self-expression, and group ",
+        "likes": 110
+      }
+    ]
+  },
+  {
+    "category_id": 12,
+    "category": "Science",
+    "image": "https://i.ibb.co/Dpxj063/science-logo-removebg-preview.png",
+    "items": [
+      {
+        "title": "Science Symposium",
+        "coverImage": "https://i.ibb.co/DDQKpsg/ousa-chea-g-KUC4-TMh-Oi-Y-unsplash.jpg",
+        "description": "The Science History Institute explores lesser-known and overlooked stories from the history of science and technology. We dive deep into the history of scientific successes and failures, with a focus on expanding knowledge and broadening our understanding of how science and society intersect.",
+        "likes": 120
+      },
+      {
+        "title": "Innovation Expo",
+        "coverImage": " https://i.ibb.co/2sfwcJQ/hal-gatewood-Ogvq-XGL7-XO4-unsplash.jpg",
+        "description": "The Science History Institute explores lesser-known and overlooked stories from the history of science and technology. We dive deep into the history of scientific successes and failures, with a focus on expanding knowledge and broadening our understanding of how science and society intersect.",
+        "likes": 95
+      },
+      {
+        "title": "Space Exploration Lecture",
+        "coverImage": " https://i.ibb.co/2sfwcJQ/hal-gatewood-Ogvq-XGL7-XO4-unsplash.jpg",
+        "description": "The Science History Institute explores lesser-known and overlooked stories from the history of science and technology. We dive deep into the history of scientific successes and failures, with a focus on expanding knowledge and broadening our understanding of how science and society intersect.",
+        "likes": 80
+      }
+    ]
+  },
+  {
+    "category_id": 13,
+    "category": "Music",
+    "image": "https://i.ibb.co/QJ7g1Lm/music-logo-removebg-preview.png",
+    "items": [
+      {
+        "title": "Music Festival",
+        "coverImage": "https://i.ibb.co/TR0HHzL/wes-hicks-MEL-j-Jnm7-RQ-unsplash.jpg",
+        "description": "The Science History Institute explores lesser-known and overlooked stories from the history of science and technology. We dive deep into the history of scientific successes and failures, with a focus on expanding knowledge and broadening our understanding of how science and society intersect.",
+        "likes": 110
+      },
+      {
+        "title": "Concert Series",
+        "coverImage": "https://i.ibb.co/3vgbf8C/marcela-laskoski-Yrt-Flr-Lo2-DQ-unsplash.jpg",
+        "description": "The Science History Institute explores lesser-known and overlooked stories from the history of science and technology. We dive deep into the history of scientific successes and failures, with a focus on expanding knowledge and broadening our understanding of how science and society intersect.",
+        "likes": 95
+      },
+      {
+        "title": "Music Workshop",
+        "coverImage": "https://i.ibb.co/TR0HHzL/wes-hicks-MEL-j-Jnm7-RQ-unsplash.jpg",
+        "description": "The Science History Institute explores lesser-known and overlooked stories from the history of science and technology. We dive deep into the history of scientific successes and failures, with a focus on expanding knowledge and broadening our understanding of how science and society intersect.",
+        "likes": 85
+      }
+    ]
+  },
+  {
+    "category_id": 14,
+    "category": "Pets",
+    "image": "https://i.ibb.co/Ph4VWj3/homedecore-logo-removebg-preview.png",
+    "items": [
+      {
+        "title": "Pet Adoption Fair",
+        "coverImage": "https://i.ibb.co/R9bfrNy/zee-sha-Fu71ww-WNm-U4-unsplash.jpg",
+        "description": "In line with our dedication to safeguarding endangered mammals and upholding our legacy, we have crafted a brochure showcasing the ongoing journey and profound significance of our conservation efforts. We extend an invitation for you to immerse yourself in the pages of our digital brochure, offering a glimpse into The Boucher Legacy. Each download fuels our commitment, and by sharing our brochure you contribute to broadening the reach of our cause. Join our mission to protect vulnerable mammals and give them a second chance",
+        "likes": 90
+      },
+      {
+        "title": "Pet Grooming Workshop",
+        "coverImage": "https://i.ibb.co/RNXFWwD/lissette-morales-S9-UNtjz5-Hj0-unsplash.jpg",
+        "description": "In line with our dedication to safeguarding endangered mammals and upholding our legacy, we have crafted a brochure showcasing the ongoing journey and profound significance of our conservation efforts. We extend an invitation for you to immerse yourself in the pages of our digital brochure, offering a glimpse into The Boucher Legacy. Each download fuels our commitment, and by sharing our brochure you contribute to broadening the reach of our cause. Join our mission to protect vulnerable mammals and give them a second chance",
+        "likes": 120
+      },
+      {
+        "title": "Pet Fashion Show",
+        "coverImage": "https://i.ibb.co/X5WNGVr/jelena-kostic-9a-F3-MAhv-YE-unsplash.jpg",
+        "description": "In line with our dedication to safeguarding endangered mammals and upholding our legacy, we have crafted a brochure showcasing the ongoing journey and profound significance of our conservation efforts. We extend an invitation for you to immerse yourself in the pages of our digital brochure, offering a glimpse into The Boucher Legacy. Each download fuels our commitment, and by sharing our brochure you contribute to broadening the reach of our cause. Join our mission to protect vulnerable mammals and give them a second chance",
+        "likes": 80
+      }
+    ]
+  },
+  {
+    "category_id": 15,
+    "category": "Home & Decor",
+    "image": "https://i.ibb.co/Ph4VWj3/homedecore-logo-removebg-preview.png",
+    "items": [
+      {
+        "title": "Interior Design Exhibition",
+        "coverImage": "https://i.ibb.co/j8rK89V/spacejoy-KSfe2-Z4-REEM-unsplash.jpg",
+        "description": "In line with our dedication to safeguarding endangered mammals and upholding our legacy, we have crafted a brochure showcasing the ongoing journey and profound significance of our conservation efforts. We extend an invitation for you to immerse yourself in the pages of our digital brochure, offering a glimpse into The Boucher Legacy. Each download fuels our commitment, and by sharing our brochure you contribute to broadening the reach of our cause. Join our mission to protect vulnerable mammals and give them a second chance",
+        "likes": 100
+      },
+      {
+        "title": "DIY Home Improvement Workshop",
+        "coverImage": "https://i.ibb.co/HgVJHkP/manja-vitolic-7t-OV35hnkao-unsplash.jpg",
+        "description": "In line with our dedication to safeguarding endangered mammals and upholding our legacy, we have crafted a brochure showcasing the ongoing journey and profound significance of our conservation efforts. We extend an invitation for you to immerse yourself in the pages of our digital brochure, offering a glimpse into The Boucher Legacy. Each download fuels our commitment, and by sharing our brochure you contribute to broadening the reach of our cause. Join our mission to protect vulnerable mammals and give them a second chance",
+        "likes": 85
+      },
+      {
+        "title": "Gardening and Landscaping Seminar",
+        "coverImage": "https://i.ibb.co/v3cfXfx/spacejoy-h-Ww-P4-LTGEQA-unsplash.jpg",
+        "description": "In line with our dedication to safeguarding endangered mammals and upholding our legacy, we have crafted a brochure showcasing the ongoing journey and profound significance of our conservation efforts. We extend an invitation for you to immerse yourself in the pages of our digital brochure, offering a glimpse into The Boucher Legacy. Each download fuels our commitment, and by sharing our brochure you contribute to broadening the reach of our cause. Join our mission to protect vulnerable mammals and give them a second chance",
+        "likes": 110
+      }
+    ]
+  }
+]
