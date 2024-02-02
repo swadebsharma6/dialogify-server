@@ -26,16 +26,23 @@ const client = new MongoClient(uri, {
 
 async function run() {
   try {
-    // Connect the client to the server	(optional starting in v4.7)
-    // await client.connect();
+   
 
     const categoryCollection = client.db("DialogifyDB").collection("categories");
     const allCategoriesCollection = client.db("DialogifyDB").collection("allcategoriesdata");
+    const allDataCollection = client.db("DialogifyDB").collection("alldata");
     
     // get all data 
 
     app.get('/all-categories', async(req, res) =>{
       const cursor = allCategoriesCollection.find();
+      const allCategories = await cursor.toArray();
+      res.send(allCategories)
+
+    });
+
+    app.get('/all-data', async(req, res) =>{
+      const cursor = allDataCollection.find();
       const allCategories = await cursor.toArray();
       res.send(allCategories)
 
@@ -49,13 +56,8 @@ async function run() {
 
     })
 
-
-    // Send a ping to confirm a successful connection
-    // await client.db("admin").command({ ping: 1 });
-    // console.log("Pinged your deployment. You successfully connected to MongoDB!");
   } finally {
-    // Ensures that the client will close when you finish/error
-    // await client.close();
+    
   }
 }
 run().catch(console.dir);
